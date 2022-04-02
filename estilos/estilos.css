@@ -1,7 +1,24 @@
-body{
- color: blueviolet;
- background-color: rgb(42, 165, 61);
- font-family: Arial;
- 
+body
 
+{
+ color: rgb(43, 226, 211);
+ text-align: left;
+ background-color: rgb(83, 42, 165);
+ font-family: Arial;
+ font-size: 16px;
+ margin: 0;
+ padding: 0;
+}
+#container
+{
+width: 70%;
+padding: 1em;
+text-align: left;
+border: 1px solid #ddd;
+margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
