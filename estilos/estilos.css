@@ -3,7 +3,7 @@ body
 {
  color: white;
  text-align: left;
- background-color: rgb(83, 42, 165);
+ background:black;
  font-family: 'Times New Roman';
  font-size: 16px;
  margin: 0;
@@ -14,6 +14,23 @@ body
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+#cabecera
+
+{
+background: #37488b; 
+box-shadow: 0px 2px 20px 0px rgba(0, 0,0 , 0.5);
+color: white;
+margin: 0;
+padding: 0.5em 0 0.5em 2em;
+}
+
+#cabecera #logo
+
+{
+width: 20px;
+vertical-align: middle;
 }
 
 #container
